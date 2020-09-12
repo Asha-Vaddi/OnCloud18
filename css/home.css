@@ -124,7 +124,7 @@ footer{
 }
 @media only screen and (max-width: 500px){
  header {
-     width: 100%;
+    
      object-fit: fill;
     height: 70vh;
 }
