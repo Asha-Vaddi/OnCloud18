@@ -107,14 +107,14 @@ footer{
   .services-block {
   top: 15vh;
   position: relative;
-  height: 100vh;
+  height: fit-content;
   overflow:scroll;
   width: 90%;
   display: grid;
   margin: auto;
   grid-template-columns: auto;
   grid-column-gap: 0px;
-  grid-row-gap: 20vh;
+  grid-row-gap: 8vh;
 }
 
 
