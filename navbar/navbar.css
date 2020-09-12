@@ -145,7 +145,7 @@
   }
   .chatnav{
      color: white;
-      transform: translateX(100%);
+      transform: translateX(120%);
       padding: 40px;
       z-index: 2;
       width: 50%;
@@ -209,7 +209,7 @@
   .chatnav{
       overflow: scroll;
      color: white;
-      transform: translateX(120%);
+      transform: translateX(100%);
       padding: 20px;
       z-index: 2;
       width: 95%;
