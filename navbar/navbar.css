@@ -183,7 +183,17 @@
     display: none !important;
   }
 
+.sidenavlinks-right {
+  justify-content: flex-start;
+  margin-top: 20px;
 
+}
+  .sidenavlinks-left {
+  margin-bottom: 0px;
+}
+    .sidenavlinks-right .user{
+  display: none;
+}
   
 
   .chat{
